@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=Waving&color=gradient&height=300&section=header&text=%20%20%20%20Minhxxk&fontSize=80&fontColor=FFFFFF&fontAlign=70)
+![header](https://capsule-render.vercel.app/api?type=Waving&color=gradient&height=200&section=header&text=%20%20%20%20Minhxxk&fontSize=50&fontColor=FFFFFF&fontAlign=80)
 ## 👋 Hi there!
 ##### I’m mobile app developer using Android.✨
 #### 💪 Skills
